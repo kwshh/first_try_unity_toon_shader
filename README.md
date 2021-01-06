@@ -10,3 +10,5 @@ git：https://github.com/IronWarrior/UnityToonShader
   Unity2018.3.7f1
 
   初步尝试了一下用unity写shader，写了一半才发现写了个BlinPhong模型，不过也算是初步在unity中尝试编写shader，之前看闫大神视频都是直接用vs，终于可以边写边看结果了555。。
+  
+  传到另一个branch了，相当于是引用了原作者git，尴尬。
